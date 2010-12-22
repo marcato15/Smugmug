@@ -1,0 +1,26 @@
+An ExpressionEngine2 Plugin for embedding SmugMug Galleries
+
+Description:
+
+Returns the number of entries for a given category.
+
+------------------------------------------------------
+
+Example:
+
+
+{exp:smugmug url="URL" width="500" height="500"}
+
+Returns
+SmugMug Embed Code found on http://wiki.smugmug.net/display/SmugMug/Flash+Slideshow
+
+------------------------------------------------------
+
+Parameters:
+
+url="http://your.smugmug.url"
+The public url of the Smugmug photo gallery
+width="500" 
+Defaults to 500
+height="500"
+Defaults to 500
